@@ -1,0 +1,6 @@
+cmake
+scikit-image
+dlib
+face_recognition
+numpy
+opencv-python
